@@ -14,7 +14,7 @@ Quantifying mesoscale neuroanatomy using x-ray microtomography.
 submitted to: **Nature Methods**, 2016.
 
 * Bicer T, Gursoy D, Kettimuthu R, De Carlo F, Foster I. 
-Optimization of tomographic recon- struction workflows on geographically distributed resources.
+Optimization of tomographic reconstruction workflows on geographically distributed resources.
 submitted to: **Journal of Synchrotron Radiation**, 2016.
 
 * Pelt DM, Gursoy D, Batenburg KJ, De Carlo F, Palenstijna WJ, Sijbers J. 
