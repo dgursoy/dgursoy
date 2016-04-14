@@ -123,6 +123,9 @@ Second Edition, CRC Press, Author: Graham Saxby, CRC Press, **Contemporary Physi
 
 ### Conference Papers
 
+* Bhimji W, Bard D, Romanus M, Paul D, Ovsyannikov A, Friesen B, Bryson M, Correa J, Lockwood GK, Tsulaia V, Byna S, Farrell S, Gursoy D, Daley C, Beckner V, Straalen BV, Wright NJ, Antypas K, Prabhat. Accelerating science with the NERSC burst buffer early user program. **Cray User Meeting (CUG)**, London, UK, 2016.
+
+
 * De Andrade V, Deriy A, Wojcik M, Gursoy D, Shu D, Mooney T, Peterson K, Glowacki A, Yue K, Yang X, Vescovi R, De Carlo F. 
 Full-field in-situ nano-tomography activity at the Advanced Photon Source.
 **X-Ray Microscopy Conference (XRM)**, Oxford, UK, 2016.
