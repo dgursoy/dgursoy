@@ -6,7 +6,7 @@ title: Publications
 ### Journal Papers
 
 * Roncal WG, Dyer EL, Gursoy D, Kording KP, Kasthuri N. 
-From Sample to Knowledge: Towards an Integrated Approach for Neuroscience Discovery.
+From sample to knowledge: Towards an integrated approach for neuroscience discovery.
 submitted to: **Frontiers in Synaptic Neuroscience**, 2016.
 
 * Dyer EL, Fernandes HL, Roncal WG, Vogelstein JT, Gursoy D, Xiao X, Jacobsen C, Kording KP, Kasthuri N. 
