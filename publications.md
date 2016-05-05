@@ -17,13 +17,13 @@ submitted to: **Nature Methods**, 2016.
 Optimization of tomographic reconstruction workflows on geographically distributed resources.
 in-press: **Journal of Synchrotron Radiation**, 2016.
 
-* Pelt DM, Gursoy D, Batenburg KJ, De Carlo F, Palenstijna WJ, Sijbers J. 
-Integration of TomoPy and the ASTRA toolbox for advanced processing and reconstruction of tomographic synchrotron data.
-**Journal of Synchrotron Radiation**, vol.23, no.3, pp.842-849, 2016.
-
 * Tan O, Aydin S, Sayar GH, Gursoy D. 
 EEG complexity and frequency in chronic residual schizophrenia.
 in-press: **Anatolian Journal of Psychiatry**, 2016.
+
+* Pelt DM, Gursoy D, Batenburg KJ, De Carlo F, Palenstijna WJ, Sijbers J. 
+Integration of TomoPy and the ASTRA toolbox for advanced processing and reconstruction of tomographic synchrotron data.
+**Journal of Synchrotron Radiation**, vol.23, no.3, pp.842-849, 2016.
 
 * Duke DJ, Swantek AB, Sovis N, Tilocco FZ, Powell CF, AL Kastengren, Gursoy D, Bicer T. 
 Time-resolved x-ray tomography of gasoline direct injection sprays.
