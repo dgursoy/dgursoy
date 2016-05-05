@@ -15,11 +15,11 @@ submitted to: **Nature Methods**, 2016.
 
 * Bicer T, Gursoy D, Kettimuthu R, De Carlo F, Foster I. 
 Optimization of tomographic reconstruction workflows on geographically distributed resources.
-submitted to: **Journal of Synchrotron Radiation**, 2016.
+in-press: **Journal of Synchrotron Radiation**, 2016.
 
 * Pelt DM, Gursoy D, Batenburg KJ, De Carlo F, Palenstijna WJ, Sijbers J. 
 Integration of TomoPy and the ASTRA toolbox for advanced processing and reconstruction of tomographic synchrotron data.
-in-press: **Journal of Synchrotron Radiation**, 2016.
+**Journal of Synchrotron Radiation**, vol.23, no.3, pp.842-849, 2016.
 
 * Tan O, Aydin S, Sayar GH, Gursoy D. 
 EEG complexity and frequency in chronic residual schizophrenia.
