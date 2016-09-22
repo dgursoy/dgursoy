@@ -5,25 +5,33 @@ title: Publications
 
 ### Journal Papers
 
+* Ching D, Gursoy D. 
+Xdesign: An open-source software package for designing X-ray imaging phantoms and experiments. 
+(in revision)
+
+* Bicer T, Gursoy D, De Andrade V, Kettimuthu R, Scullin W, De Carlo F, Foster I. 
+Trace: A High-Throughput Tomographic Reconstruction Engine for Large-Scale Datasets. 
+(in revision)
+
 * Roncal WG, Dyer EL, Gursoy D, Kording KP, Kasthuri N. 
 From sample to knowledge: Towards an integrated approach for neuroscience discovery.
-submitted to: **Frontiers in Synaptic Neuroscience**, 2016.
+(in revision)
 
 * Dyer EL, Fernandes HL, Roncal WG, Vogelstein JT, Gursoy D, Xiao X, Jacobsen C, Kording KP, Kasthuri N. 
 Quantifying mesoscale neuroanatomy using x-ray microtomography.
-submitted to: **Nature Methods**, 2016.
+(in revision)
 
 * Bicer T, Gursoy D, Kettimuthu R, De Carlo F, Foster I. 
 Optimization of tomographic reconstruction workflows on geographically distributed resources.
-in-press: **Journal of Synchrotron Radiation**, 2016.
-
-* Tan O, Aydin S, Sayar GH, Gursoy D. 
-EEG complexity and frequency in chronic residual schizophrenia.
-in-press: **Anatolian Journal of Psychiatry**, 2016.
+**Journal of Synchrotron Radiation**, vol.23, no.4, pp.997-1005, 2016.
 
 * Pelt DM, Gursoy D, Batenburg KJ, De Carlo F, Palenstijna WJ, Sijbers J. 
 Integration of TomoPy and the ASTRA toolbox for advanced processing and reconstruction of tomographic synchrotron data.
 **Journal of Synchrotron Radiation**, vol.23, no.3, pp.842-849, 2016.
+
+* Tan O, Aydin S, Sayar GH, Gursoy D. 
+EEG complexity and frequency in chronic residual schizophrenia.
+**Anatolian Journal of Psychiatry**, 2016.
 
 * Duke DJ, Swantek AB, Sovis N, Tilocco FZ, Powell CF, AL Kastengren, Gursoy D, Bicer T. 
 Time-resolved x-ray tomography of gasoline direct injection sprays.
@@ -124,7 +132,6 @@ Second Edition, CRC Press, Author: Graham Saxby, CRC Press, **Contemporary Physi
 ### Conference Papers
 
 * Bhimji W, Bard D, Romanus M, Paul D, Ovsyannikov A, Friesen B, Bryson M, Correa J, Lockwood GK, Tsulaia V, Byna S, Farrell S, Gursoy D, Daley C, Beckner V, Straalen BV, Wright NJ, Antypas K, Prabhat. Accelerating science with the NERSC burst buffer early user program. **Cray User Meeting (CUG)**, London, UK, 2016.
-
 
 * De Andrade V, Deriy A, Wojcik M, Gursoy D, Shu D, Mooney T, Peterson K, Glowacki A, Yue K, Yang X, Vescovi R, De Carlo F. 
 Full-field in-situ nano-tomography activity at the Advanced Photon Source.
